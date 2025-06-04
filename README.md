@@ -18,3 +18,9 @@ Ahora implementamos la misma funcionalidad de "Crear" pero en el apartado de Pro
 Y cuando terminas de crear el producto te sale el apartado de que fue creado de manera exitosa
 ![image](https://github.com/user-attachments/assets/ae2d5284-70e8-4562-b6f6-d6e8d188c9a0)
 
+Para la parte final agregamos el categorias con las mismas opciones que teniamos en el apartado de Productos y de Usuarios, con la misma funcionalidad de crear también una nueva categoría
+![image](https://github.com/user-attachments/assets/c720c1b7-bf8a-4dbb-bcc6-907d55a3981c)
+![image](https://github.com/user-attachments/assets/c1fdbaae-737e-4f56-b2c3-4c2d95871e15)
+
+
+
