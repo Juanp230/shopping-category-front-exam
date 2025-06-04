@@ -9,4 +9,5 @@ Adicionalmente a eso creamos el boton "Crear" en el apartado de Users que nos pe
 Tenemos dentro del Botón crear diversas casillas donde se ubicaran las opciones para crear el usuario nuevo
 ![image](https://github.com/user-attachments/assets/059f49f5-d85f-43a0-bc86-178d9e217b6b)
 
-
+Luego de rellenar las opciones que nos da en el apartado de "Crear" nos arrojará la opción de que ha sido creado de manera exitosa
+![image](https://github.com/user-attachments/assets/4dcf16dc-bf54-4a29-afd9-4a12b29c84d2)
