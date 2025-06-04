@@ -1,4 +1,6 @@
 # shopping-category-front-exam
+DESARROLLADRES: OSCAR IVAN BECERRA 192176 / JUAN PABLO CARVAJALINO 192323
+
 Primer commit
 Para el primer commit implementamos lo visto en las clases anteriores y tenemos las carpetas como lo son: 
 ![image](https://github.com/user-attachments/assets/0ccd1961-8b6b-48b2-89cf-f1b3a273abf4)
