@@ -11,3 +11,10 @@ Tenemos dentro del Botón crear diversas casillas donde se ubicaran las opciones
 
 Luego de rellenar las opciones que nos da en el apartado de "Crear" nos arrojará la opción de que ha sido creado de manera exitosa
 ![image](https://github.com/user-attachments/assets/4dcf16dc-bf54-4a29-afd9-4a12b29c84d2)
+
+Ahora implementamos la misma funcionalidad de "Crear" pero en el apartado de Productos
+![image](https://github.com/user-attachments/assets/749a4a36-65ab-4d32-abc0-3a21395c7b21)
+
+Y cuando terminas de crear el producto te sale el apartado de que fue creado de manera exitosa
+![image](https://github.com/user-attachments/assets/ae2d5284-70e8-4562-b6f6-d6e8d188c9a0)
+
